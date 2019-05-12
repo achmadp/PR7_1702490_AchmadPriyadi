@@ -9,7 +9,7 @@
   </head>
     <center>
       <body>
-      <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #3867d6 ;">
+      <nav class="navbar navbar-expand-lg navbar-dark " style="background-color: #1289A7 ;">
         <h1 align="center" >Data Kereta</h1>
       </nav>
       <hr>
