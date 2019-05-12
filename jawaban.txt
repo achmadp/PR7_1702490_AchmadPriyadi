@@ -1,0 +1,4 @@
+-Left Join yaitu penggabungan tabel dimana data akan ditampilkan secara keseluruhan pada tabel pertama (kiri) namun record pada tabel kedua (	 kanan) yang kosong akan ditampilkan dengan isi NULL.
+-Sedangkan Right Join menggabungkan tabel dimana data akan ditampilkan secara keseluruhan pada tabel kedua (kanan), namun NULL pada tabel pertama (kiri).
+-Yang terakhir yaitu Inner join. Inner join digunakan ketika menggabungkan tabel dan harus membutuhkan satu kolom unik yang ada pada primary key maupun foreign key. Apabila ada foreign key maupun primary key yang kosong, inner join hanya akan memunculkan data yang foreign key nya terdapat record yang mempunyai isi.
+
